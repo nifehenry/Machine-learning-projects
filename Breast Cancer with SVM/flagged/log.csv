@@ -1,0 +1,5 @@
+Concave Points Mean,Symmetry Mean,Radius SE,Area SE,Fractal Dimension SE,Radius Worst,Texture Worst,Area Worst,Concavity Worst,Concave Points Worst,output,flag,username,timestamp
+11.91,9.51,14.8,1229.55,0.39,16.64,17.98,1335.5,0.41,0.57,,,,2024-08-09 22:34:46.047160
+0.1471,0.2419,1.095,153.4,0.006193,25.38,17.33,1307.62,1,0.2654,Malignant,,,2024-08-09 23:32:21.694655
+12.85,7.83,10.4,894.98,0.46,10.85,23.65,1118.03,0.45,0.39,Benign,,,2024-08-11 13:43:04.907216
+8.39,3.93,3.71,521.38,0.08,6.16,3.95,136.62,0.13,0.16,Benign,,,2024-08-15 17:54:23.524442
