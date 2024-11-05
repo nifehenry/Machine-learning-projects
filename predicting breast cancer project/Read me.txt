@@ -1,0 +1,6 @@
+1. Dataset is gotten from kaggle Breast cancer Wisconsin (Diagnostic) Data
+2. y values = B and M
+3. B stands for Benign: Benign refers to a condition, tumor, or growth that is not cancerous
+4. M stands for Malignant: The tumor contains cancerous cells.
+5. Data transformation B=1, M=2
+6. 
